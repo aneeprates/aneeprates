@@ -1,6 +1,6 @@
 ### Olá, Anelise Prates aqui! 👨‍💻
 
-Sou estudante de desenvolvimento Kotlin para Android e apaixonado por tecnologia.
+Sou estudante de desenvolvimento Kotlin para Android e apaixonada por tecnologia.
 ### 👀 Estou a procura de uma vaga no momento 👀
 
 ## ⚡ Minhas Habilidades
